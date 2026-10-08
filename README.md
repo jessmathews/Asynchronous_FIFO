@@ -1,1 +1,2 @@
-# Asynchronous_FIFO
+# Asynchronous FIFO
+Developed an asynchronous FIFO RTL in Verilog using dual-clock domains, Gray-coded read/write pointers, and two-flop synchronizers for safe CDC. Verified the RTL using VCS with independent read and write clocks. 
